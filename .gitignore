@@ -1,4 +1,4 @@
-electron-builder.yml
+electron-builder.env
 node_modules
 dist
 .env
